@@ -1,0 +1,8 @@
+     Oscar  Martinez      77      66      34      92      92      70
+     Maria    Riparo      93      71      84      71      71    83.6
+       Ave  Gonzalez      74      63      81      91      91    81.6
+   Maricor  Pangalan      69      55      98      97      97    82.6
+    Josiah Pemberton      58      67      79      91      91      77
+
+Highest average score:   Maricor  Pangalan    77.2
+
