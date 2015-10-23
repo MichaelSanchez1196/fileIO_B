@@ -30,12 +30,12 @@ int main()
 
 	while(fin >> firstName >> lastName >> n1 >> n2 >> n3 >> n4 >> n5 >> n6)
 	{
-		cout.setf(ios::fixed);
-		cout.setf(ios::showpoint);
-		cout.precision(2);
-		cout.setf(ios::left);
+		fout.setf(ios::fixed);
+		fout.setf(ios::showpoint);
+		fout.precision(2);
+		//cout.setf(ios::left);
 		
-		fout << setw(10) << firstName << setw(10) << lastName << setw(8) << n1 << setw(8) << n2 << setw(8) << n3 << setw(8) << n4 << setw(8) << n5 << setw(8) << n6 << endl;
+		fout << setw(12) << firstName << setw(12) << lastName << setw(8) << n1 << setw(8) << n2 << setw(8) << n3 << setw(8) << n4 << setw(8) << n5 << setw(8) << n6 << endl;
 			avg = (n1 + n2 + n3 + n4 + n5) / 5;
 			
 			if(avg > max)

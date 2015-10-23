@@ -1,8 +1,8 @@
-     Oscar  Martinez      77      66      34      92      92      70
-     Maria    Riparo      93      71      84      71      71    83.6
-       Ave  Gonzalez      74      63      81      91      91    81.6
-   Maricor  Pangalan      69      55      98      97      97    82.6
-    Josiah Pemberton      58      67      79      91      91      77
+       Oscar    Martinez   77.00   66.00   34.00   92.00   92.00   70.00
+       Maria      Riparo   93.00   71.00   84.00   71.00   71.00   83.60
+         Ave    Gonzalez   74.00   63.00   81.00   91.00   91.00   81.60
+     Maricor    Pangalan   69.00   55.00   98.00   97.00   97.00   82.60
+      Josiah   Pemberton   58.00   67.00   79.00   91.00   91.00   77.00
 
-Highest average score:   Maricor  Pangalan    77.2
+Highest average score:   Maricor  Pangalan   77.20
 
